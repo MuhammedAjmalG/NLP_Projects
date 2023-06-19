@@ -30,8 +30,8 @@ This repository provides an implementation of stopword removal in natural langua
 - Example Code and Usage
 - `NLP_StopWords.ipynb`: This file contains the implementation of the tokenization algorithm.
 
-# 4.Bag of Words (BoW) Implementation
-This repository showcases the implementation of the Bag of Words (BoW) technique for text-to-vectorization in natural language processing (NLP) tasks. BoW is a fundamental technique that converts textual data into a numerical representation, enabling the analysis and extraction of meaningful insights.
+# 4.Bag of Words (BoW) and TF-IDF Implementation
+This repository showcases the implementation of the Bag of Words (BoW) and TF-IDF techniques for text-to-vectorization in natural language processing (NLP) tasks. BoW and TF-IDF are fundamental techniques that convert textual data into numerical representations, enabling the analysis and extraction of meaningful insights.
 
 ## Contents
 - BOW_&_TFIDF.ipynb: Jupyter notebook containing the code implementation of BoW and TF-IDF techniques.
